@@ -12,3 +12,12 @@
 5、自定义圆圈、成功、失败的动画路径。 
 
 6、重置加载动画。
+
+
+效果如下：
+
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_success.gif)
+
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_reset.gif)
+
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_fail.gif)
