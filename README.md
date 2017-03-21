@@ -16,6 +16,9 @@
 
 效果如下：
 
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_success.gif)
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_fail.gif)
+![image](https://github.com/xiaotianyilang/LoadingView/blob/master/loading_view_reset.gif)
 
 如何使用：
 在gradle中添加
